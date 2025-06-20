@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey I'm Yonatan 👋:
 🔭 I’m currently working on building scalable web applications using the MERN stack.<br><br>👯 I’m looking to collaborate on open-source projects, especially those focused on social impact or developer tools.<br><br>🤝 I’m looking for help with optimizing backend performance and exploring cloud deployment strategies.<br><br>🌱 I’m currently learning TypeScript, Next.js, and diving deeper into DevOps tools like Docker and Kubernetes.<br><br>💬 Ask me about JavaScript, React, Node.js, REST APIs, and full stack development workflows.<br><br>⚡ Fun fact: I started coding by customizing themes on blogs and now I build full-stack apps from scratch!<br><br>
 
 
